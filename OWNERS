@@ -1,0 +1,20 @@
+# OWNERS file for the project
+
+# List of owners for the project
+# Each owner should be listed on a new scope
+
+# Format:
+# - username : [username]
+#   email : [email]
+#   discord : [discord]
+
+
+# Example:
+# - username : johndoe
+#   email : janedoe@janedoe.com
+#   discord : janedoe
+
+Owners:
+- name : TLExpress
+  email : hank27161@gmail.com
+  discord: tlexpress
